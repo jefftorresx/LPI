@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="PurpleBlack">#54009e</color>
+    <color name="Purple2">#6904b1</color>
+    <color name="Purple3">#7d07c5</color>
+    <color name="Purple4">#920bd8</color>
+    <color name="Purple5">#a60eeb</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+</resources>
