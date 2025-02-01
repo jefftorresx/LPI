@@ -30,7 +30,7 @@ Aplicativo Android para identificar produtos via código de barras, reconhecimen
 
 ### Clone o repositório:
 ```sh
-git clone https://github.com/seu-usuario/leitor-produtos-inteligente.git  
+git clone https://github.com/jefftorresx/LPI.git  
 ```
 
 ### Adicione permissões no `AndroidManifest.xml`:
@@ -110,10 +110,12 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
 ## 🙌 Créditos
 
-- **Dados de produtos:** OpenFoodFacts.
-- **Bibliotecas:** ZXing (scanner), Retrofit (API), Glide (imagens).
+- **Dados de produtos:** OpenFoodFacts.  
+- **Bibliotecas:** ZXing (scanner), Retrofit (API), Glide (imagens).  
 - **Desenvolvido por:** Jeffrey 🚀  
-📧 **Contato:** jeff.devcontato@gmail.com
+📧 **Contato:** jeff.devcontato@gmail.com  
+- **Ideia by:** Claudiane  
+
 
 ---
 
